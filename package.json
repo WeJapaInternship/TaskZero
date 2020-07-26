@@ -1,0 +1,14 @@
+{
+    "name": "Adewale_Adeleye",
+    "main": "node start ./bin/www",
+    "scripts": {
+        "start": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "http-errors": "~1.6.3",
+        "request": "^2.87.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    }
+}
