@@ -1,6 +1,6 @@
 
 # To get started, run the following commands:
-> npm install
-> npm start
+1 npm install
+2 npm start
 
-go to *localhost:3030* to view the output
+go to *127.0.0.1:3030* to view the output
